@@ -1,0 +1,11 @@
+.btn {
+    background-color: greenyellow;
+    padding: 1rem;
+    cursor: pointer;
+
+}
+
+.success {
+    background-color: black;
+    color: white;
+}
